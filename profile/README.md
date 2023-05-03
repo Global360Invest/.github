@@ -8,8 +8,11 @@ Este repositório é dedicado a nossos projetos e iniciativas de investimento. A
 Projetos 💻
 Atualmente, estamos trabalhando em vários projetos interessantes, incluindo:
 
+
 Projeto Plataforma Global360Invest: Plataforma de investimentos em Ativos Reais.
+
 Contribuição 🤝
+
 Adoramos receber contribuições de outros desenvolvedores e investidores. Se você quiser colaborar em nossos projetos ou sugerir novas ideias, sinta-se à vontade para abrir um problema ou enviar uma solicitação de recebimento.
 
 Contato 📞 
