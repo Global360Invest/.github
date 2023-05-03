@@ -1,4 +1,5 @@
 Global360Invest 🌎💰💹
+
 Sobre 📝
 A Global360Invest é uma organização dedicada a ajudar pessoas a investir de forma inteligente e eficaz. Oferecemos investimentos em Ativos Reais. Nossos produtos e serviços são projetados para ajudar investidores iniciantes e experientes a atingir seus objetivos financeiros.
 
@@ -11,7 +12,7 @@ Projeto Plataforma Global360Invest: Plataforma de investimentos em Ativos Reais.
 Contribuição 🤝
 Adoramos receber contribuições de outros desenvolvedores e investidores. Se você quiser colaborar em nossos projetos ou sugerir novas ideias, sinta-se à vontade para abrir um problema ou enviar uma solicitação de recebimento.
 
-Contato 📞
+Contato 📞 
 Você pode entrar em contato conosco em:
 
 Site: https://www.global360invest.com 🌐
